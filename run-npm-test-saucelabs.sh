@@ -4,3 +4,4 @@ cd ui
 npm install
 npm run test-saucelabs-local
 cd ..
+echo 'all done'
